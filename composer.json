@@ -1,6 +1,6 @@
 {
-  "name": "OneDrive_SCF",
-  "description": "OneDrive in QCloud SCF",
+  "name": "RX100_Drive",
+  "description": "RX100 QCloud SCF",
   "license": "MIT",
   "type": "project",
   "require": {
